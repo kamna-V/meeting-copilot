@@ -1,0 +1,356 @@
+[
+  {
+    "id": "m0021",
+    "meeting_type": "no_action_chitchat",
+    "company": "Vertex Retail",
+    "topic": "a retrospective discussion",
+    "participants": [
+      "Fatima",
+      "Priya"
+    ],
+    "transcript": "Fatima: Let's kick off — a retrospective discussion is the main thing on the agenda today.\nFatima: Can we timebox this? We have another meeting after.\nPriya: I think that's a fair concern, let's note it down.\nFatima: I think that's a fair concern, let's note it down.\nFatima: Not sure that's fully in scope for today, but noted.\nPriya: Let's circle back to that in a second.\nPriya: Let's circle back to that in a second.\nPriya: Just to summarize what I think I heard...\nFatima: Yeah, that tracks with what I saw too.\nPriya: I think that's a fair concern, let's note it down.\nFatima: Not sure that's fully in scope for today, but noted.\nFatima: Just to summarize what I think I heard...\nPriya: Can we timebox this? We have another meeting after.\nFatima: I think that's a fair concern, let's note it down.\nPriya: Let's circle back to that in a second.\nFatima: Yeah, that tracks with what I saw too.\nFatima: Let's circle back to that in a second.\nPriya: Let's circle back to that in a second.\nFatima: Great, thanks everyone, let's wrap up there regarding a retrospective discussion.",
+    "action_items": [],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about a retrospective discussion at Vertex Retail."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: A retrospective discussion — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on a retrospective discussion. Here's a quick summary of next steps:\n\n- No specific action items were assigned in this meeting.\n\nLet me know if I've missed anything.\n\nBest,\nFatima"
+    }
+  },
+  {
+    "id": "m0029",
+    "meeting_type": "marketing_planning",
+    "company": "Fabrikam",
+    "topic": "the product launch campaign",
+    "participants": [
+      "Chen",
+      "Yuki",
+      "Priya",
+      "Tom"
+    ],
+    "transcript": "Chen: Let's kick off — the product launch campaign is the main thing on the agenda today.\nPriya: Good point, I hadn't thought about that angle.\nYuki: Can we timebox this? We have another meeting after.\nPriya: Let's have Yuki handle coordinating with legal on the contract terms, target end of this week.\nChen: Not sure that's fully in scope for today, but noted.\nYuki: Sorry, can you repeat that? I got cut off.\nChen: Quick tangent — did anyone see the email from finance?\nChen: Let's circle back to that in a second.\nChen: Let's circle back to that in a second.\nTom: Quick tangent — did anyone see the email from finance?\nTom: Can we timebox this? We have another meeting after.\nPriya: Sorry, can you repeat that? I got cut off.\nChen: Good point, I hadn't thought about that angle.\nChen: Let's circle back to that in a second.\nTom: Let's circle back to that in a second.\nChen: Just to summarize what I think I heard...\nTom: We've decided to postpone reviewing the current metrics dashboard until next quarter.\nChen: I think that's a fair concern, let's note it down.\nPriya: Not sure that's fully in scope for today, but noted.\nTom: Let's circle back to that in a second.\nTom: Yeah, that tracks with what I saw too.\nPriya: Great, thanks everyone, let's wrap up there regarding the product launch campaign.",
+    "action_items": [
+      {
+        "task": "Coordinating with legal on the contract terms",
+        "owner": "Yuki",
+        "due_date": "end of this week",
+        "priority": "High",
+        "source_quote": "Let's have Yuki handle coordinating with legal on the contract terms, target end of this week."
+      }
+    ],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for coordinating with legal on the contract terms?",
+        "answer": "Yuki is responsible, due end of this week."
+      },
+      {
+        "question": "When is 'coordinating with legal on the contract terms' due?",
+        "answer": "End of this week."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about the product launch campaign at Fabrikam."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: The product launch campaign — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on the product launch campaign. Here's a quick summary of next steps:\n\n- Coordinating with legal on the contract terms — Yuki (due end of this week)\n\nLet me know if I've missed anything.\n\nBest,\nChen"
+    }
+  },
+  {
+    "id": "m0054",
+    "meeting_type": "status_review",
+    "company": "Bluepeak",
+    "topic": "the vendor onboarding project",
+    "participants": [
+      "Arjun",
+      "Marcus",
+      "Sofia",
+      "Chen",
+      "Kwame"
+    ],
+    "transcript": "Arjun: Alright everyone, thanks for joining. Let's get started.\nKwame: I think that's a fair concern, let's note it down.\nKwame: Can we timebox this? We have another meeting after.\nSofia: Quick tangent — did anyone see the email from finance?\nArjun: Can we timebox this? We have another meeting after.\nSofia: Can we timebox this? We have another meeting after.\nSofia: Let's have Kwame handle fixing the flaky test suite, target end of day Friday.\nSofia: Sorry, can you repeat that? I got cut off.\nChen: Can we timebox this? We have another meeting after.\nChen: Sorry, can you repeat that? I got cut off.\nKwame: Good point, I hadn't thought about that angle.\nSofia: Great, thanks everyone, let's wrap up there regarding the vendor onboarding project.",
+    "action_items": [
+      {
+        "task": "Fixing the flaky test suite",
+        "owner": "Kwame",
+        "due_date": "end of day Friday",
+        "priority": "Medium",
+        "source_quote": "Let's have Kwame handle fixing the flaky test suite, target end of day Friday."
+      }
+    ],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for fixing the flaky test suite?",
+        "answer": "Kwame is responsible, due end of day Friday."
+      },
+      {
+        "question": "When is 'fixing the flaky test suite' due?",
+        "answer": "End of day friday."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about the vendor onboarding project at Bluepeak."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: The vendor onboarding project — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on the vendor onboarding project. Here's a quick summary of next steps:\n\n- Fixing the flaky test suite — Kwame (due end of day Friday)\n\nLet me know if I've missed anything.\n\nBest,\nArjun"
+    }
+  },
+  {
+    "id": "m0014",
+    "meeting_type": "status_review",
+    "company": "Zenith Labs",
+    "topic": "the incident postmortem",
+    "participants": [
+      "Lena",
+      "Fatima"
+    ],
+    "transcript": "Lena: Okay, I think we're all here — let's dive in.\nFatima: Let's circle back to that in a second.\nLena: Let's have Lena handle writing up the postmortem summary, target end of this week.\nLena: We've decided to postpone preparing the slide deck for leadership until next quarter.\nFatima: Not sure that's fully in scope for today, but noted.\nLena: We've decided to postpone coordinating with legal on the contract terms until next quarter.\nFatima: Can we timebox this? We have another meeting after.\nLena: Quick tangent — did anyone see the email from finance?\nLena: Let's have Fatima handle finalizing the budget numbers, target end of this week.\nFatima: Lena, can you follow up on scheduling the customer call and get back to us by end of day Friday?\nFatima: Can we timebox this? We have another meeting after.\nLena: I think that's a fair concern, let's note it down.\nLena: Can we timebox this? We have another meeting after.\nLena: Sorry, can you repeat that? I got cut off.\nFatima: Great, thanks everyone, let's wrap up there regarding the incident postmortem.",
+    "action_items": [
+      {
+        "task": "Writing up the postmortem summary",
+        "owner": "Lena",
+        "due_date": "end of this week",
+        "priority": "Medium",
+        "source_quote": "Let's have Lena handle writing up the postmortem summary, target end of this week."
+      },
+      {
+        "task": "Finalizing the budget numbers",
+        "owner": "Fatima",
+        "due_date": "end of this week",
+        "priority": "Low",
+        "source_quote": "Let's have Fatima handle finalizing the budget numbers, target end of this week."
+      },
+      {
+        "task": "Scheduling the customer call",
+        "owner": "Lena",
+        "due_date": "end of day Friday",
+        "priority": "Low",
+        "source_quote": "Lena, can you follow up on scheduling the customer call and get back to us by end of day Friday?"
+      }
+    ],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for finalizing the budget numbers?",
+        "answer": "Fatima is responsible, due end of this week."
+      },
+      {
+        "question": "When is 'finalizing the budget numbers' due?",
+        "answer": "End of this week."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about the incident postmortem at Zenith Labs."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: The incident postmortem — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on the incident postmortem. Here's a quick summary of next steps:\n\n- Writing up the postmortem summary — Lena (due end of this week)\n- Finalizing the budget numbers — Fatima (due end of this week)\n- Scheduling the customer call — Lena (due end of day Friday)\n\nLet me know if I've missed anything.\n\nBest,\nLena"
+    }
+  },
+  {
+    "id": "m0059",
+    "meeting_type": "exec_strategy",
+    "company": "Vertex Retail",
+    "topic": "headcount planning for next fiscal year",
+    "participants": [
+      "Fatima",
+      "Lena",
+      "Daniel",
+      "Ivan",
+      "Yuki"
+    ],
+    "transcript": "Fatima: Okay, I think we're all here — let's dive in.\nIvan: Fatima, can you follow up on reaching out to the vendor for updated pricing and get back to us by end of day Friday?\nDaniel: Let's have Yuki handle setting up the tracking dashboard, target in two weeks.\nDaniel: Yeah, that tracks with what I saw too.\nIvan: Good point, I hadn't thought about that angle.\nIvan: Just to summarize what I think I heard...\nLena: Not sure that's fully in scope for today, but noted.\nYuki: Can someone own cleaning up the backlog? I don't think we assigned that.\nIvan: Yeah, that tracks with what I saw too.\nIvan: I think that's a fair concern, let's note it down.\nDaniel: Can someone own coordinating with legal on the contract terms? I don't think we assigned that.\nIvan: Yeah, that tracks with what I saw too.\nIvan: Quick tangent — did anyone see the email from finance?\nFatima: Quick tangent — did anyone see the email from finance?\nDaniel: Ivan, can you follow up on reviewing the current metrics dashboard and get back to us by end of day Friday?\nFatima: Sorry, can you repeat that? I got cut off.\nFatima: Can we timebox this? We have another meeting after.\nYuki: Quick tangent — did anyone see the email from finance?\nDaniel: Great, thanks everyone, let's wrap up there regarding headcount planning for next fiscal year.",
+    "action_items": [
+      {
+        "task": "Reaching out to the vendor for updated pricing",
+        "owner": "Fatima",
+        "due_date": "end of day Friday",
+        "priority": "Medium",
+        "source_quote": "Fatima, can you follow up on reaching out to the vendor for updated pricing and get back to us by end of day Friday?"
+      },
+      {
+        "task": "Setting up the tracking dashboard",
+        "owner": "Yuki",
+        "due_date": "in two weeks",
+        "priority": "High",
+        "source_quote": "Let's have Yuki handle setting up the tracking dashboard, target in two weeks."
+      },
+      {
+        "task": "Reviewing the current metrics dashboard",
+        "owner": "Ivan",
+        "due_date": "end of day Friday",
+        "priority": "Medium",
+        "source_quote": "Ivan, can you follow up on reviewing the current metrics dashboard and get back to us by end of day Friday?"
+      }
+    ],
+    "has_unassigned_item": true,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for setting up the tracking dashboard?",
+        "answer": "Yuki is responsible, due in two weeks."
+      },
+      {
+        "question": "When is 'setting up the tracking dashboard' due?",
+        "answer": "In two weeks."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about headcount planning for next fiscal year at Vertex Retail."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: Headcount planning for next fiscal year — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on headcount planning for next fiscal year. Here's a quick summary of next steps:\n\n- Reaching out to the vendor for updated pricing — Fatima (due end of day Friday)\n- Setting up the tracking dashboard — Yuki (due in two weeks)\n- Reviewing the current metrics dashboard — Ivan (due end of day Friday)\n\nLet me know if I've missed anything.\n\nBest,\nFatima"
+    }
+  },
+  {
+    "id": "m0003",
+    "meeting_type": "marketing_planning",
+    "company": "Contoso",
+    "topic": "the webinar series",
+    "participants": [
+      "Marcus",
+      "Yuki",
+      "Tom",
+      "Meera"
+    ],
+    "transcript": "Marcus: Let's kick off — the webinar series is the main thing on the agenda today.\nTom: Yeah, that tracks with what I saw too.\nMeera: Not sure that's fully in scope for today, but noted.\nMarcus: Let's have Yuki handle reviewing the current metrics dashboard, target end of day Friday.\nMeera: Good point, I hadn't thought about that angle.\nMeera: Let's circle back to that in a second.\nMeera: Meera, can you follow up on finalizing the budget numbers and get back to us by before the leadership review?\nMeera: Not sure that's fully in scope for today, but noted.\nMeera: We've decided to postpone scheduling the customer call until next quarter.\nTom: Let's have Yuki handle setting up the tracking dashboard, target end of this week.\nMarcus: Yeah, that tracks with what I saw too.\nMarcus: Good point, I hadn't thought about that angle.\nMeera: Let's have Marcus handle writing up the postmortem summary, target end of this week.\nMarcus: Great, thanks everyone, let's wrap up there regarding the webinar series.",
+    "action_items": [
+      {
+        "task": "Reviewing the current metrics dashboard",
+        "owner": "Yuki",
+        "due_date": "end of day Friday",
+        "priority": "High",
+        "source_quote": "Let's have Yuki handle reviewing the current metrics dashboard, target end of day Friday."
+      },
+      {
+        "task": "Finalizing the budget numbers",
+        "owner": "Meera",
+        "due_date": "before the leadership review",
+        "priority": "Medium",
+        "source_quote": "Meera, can you follow up on finalizing the budget numbers and get back to us by before the leadership review?"
+      },
+      {
+        "task": "Setting up the tracking dashboard",
+        "owner": "Yuki",
+        "due_date": "end of this week",
+        "priority": "High",
+        "source_quote": "Let's have Yuki handle setting up the tracking dashboard, target end of this week."
+      },
+      {
+        "task": "Writing up the postmortem summary",
+        "owner": "Marcus",
+        "due_date": "end of this week",
+        "priority": "Low",
+        "source_quote": "Let's have Marcus handle writing up the postmortem summary, target end of this week."
+      }
+    ],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for writing up the postmortem summary?",
+        "answer": "Marcus is responsible, due end of this week."
+      },
+      {
+        "question": "When is 'writing up the postmortem summary' due?",
+        "answer": "End of this week."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about the webinar series at Contoso."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: The webinar series — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on the webinar series. Here's a quick summary of next steps:\n\n- Reviewing the current metrics dashboard — Yuki (due end of day Friday)\n- Finalizing the budget numbers — Meera (due before the leadership review)\n- Setting up the tracking dashboard — Yuki (due end of this week)\n- Writing up the postmortem summary — Marcus (due end of this week)\n\nLet me know if I've missed anything.\n\nBest,\nMarcus"
+    }
+  },
+  {
+    "id": "m0052",
+    "meeting_type": "marketing_planning",
+    "company": "Bluepeak",
+    "topic": "the Q4 content calendar",
+    "participants": [
+      "Yuki",
+      "Priya",
+      "Aisha",
+      "Chen",
+      "Daniel"
+    ],
+    "transcript": "Yuki: Let's kick off — the Q4 content calendar is the main thing on the agenda today.\nChen: I think that's a fair concern, let's note it down.\nPriya: Yuki, can you follow up on scheduling the customer call and get back to us by the end of the sprint?\nAisha: Quick tangent — did anyone see the email from finance?\nYuki: Good point, I hadn't thought about that angle.\nPriya: Quick tangent — did anyone see the email from finance?\nAisha: Just to summarize what I think I heard...\nDaniel: Good point, I hadn't thought about that angle.\nChen: Daniel, can you follow up on preparing the slide deck for leadership and get back to us by before the leadership review?\nYuki: Let's circle back to that in a second.\nYuki: Not sure that's fully in scope for today, but noted.\nChen: Great, thanks everyone, let's wrap up there regarding the Q4 content calendar.",
+    "action_items": [
+      {
+        "task": "Scheduling the customer call",
+        "owner": "Yuki",
+        "due_date": "the end of the sprint",
+        "priority": "Medium",
+        "source_quote": "Yuki, can you follow up on scheduling the customer call and get back to us by the end of the sprint?"
+      },
+      {
+        "task": "Preparing the slide deck for leadership",
+        "owner": "Daniel",
+        "due_date": "before the leadership review",
+        "priority": "Medium",
+        "source_quote": "Daniel, can you follow up on preparing the slide deck for leadership and get back to us by before the leadership review?"
+      }
+    ],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for scheduling the customer call?",
+        "answer": "Yuki is responsible, due the end of the sprint."
+      },
+      {
+        "question": "When is 'scheduling the customer call' due?",
+        "answer": "The end of the sprint."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about the Q4 content calendar at Bluepeak."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: The q4 content calendar — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on the Q4 content calendar. Here's a quick summary of next steps:\n\n- Scheduling the customer call — Yuki (due the end of the sprint)\n- Preparing the slide deck for leadership — Daniel (due before the leadership review)\n\nLet me know if I've missed anything.\n\nBest,\nYuki"
+    }
+  }
+]

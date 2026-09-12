@@ -1,0 +1,29 @@
+# Environments / secrets — never commit these
+.env
+*.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Model checkpoints — too large for git, keep them local or in Drive/cloud storage
+checkpoints/
+*.safetensors
+*.bin
+*.zip
+
+# Eval run outputs are small (7 records) and are part of your evidence — keep them tracked.
+# If you rerun many experiments and these grow large/noisy, add specific ones here instead.
+
+# OS/editor junk
+.DS_Store
+.vscode/
+*.swp
+
+# Gradio
+gradio_cached_examples/
+flagged/

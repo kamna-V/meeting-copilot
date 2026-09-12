@@ -1,0 +1,424 @@
+[
+  {
+    "id": "m0023",
+    "meeting_type": "sprint_planning",
+    "company": "Zenith Labs",
+    "topic": "the notification service migration",
+    "participants": [
+      "Sofia",
+      "Chen",
+      "Rahul",
+      "Priya"
+    ],
+    "transcript": "Sofia: Let's kick off — the notification service migration is the main thing on the agenda today.\nSofia: Quick tangent — did anyone see the email from finance?\nSofia: Good point, I hadn't thought about that angle.\nChen: Sorry, can you repeat that? I got cut off.\nRahul: Sofia, can you follow up on syncing with the design team on the new mockups and get back to us by in two weeks?\nRahul: Let's have Sofia handle cleaning up the backlog, target end of this week.\nPriya: Sofia, can you follow up on writing up the postmortem summary and get back to us by the end of the sprint?\nSofia: Yeah, that tracks with what I saw too.\nRahul: We've decided to postpone coordinating with legal on the contract terms until next quarter.\nPriya: Quick tangent — did anyone see the email from finance?\nChen: Yeah, that tracks with what I saw too.\nPriya: Can someone own reviewing the current metrics dashboard? I don't think we assigned that.\nSofia: Great, thanks everyone, let's wrap up there regarding the notification service migration.",
+    "action_items": [
+      {
+        "task": "Syncing with the design team on the new mockups",
+        "owner": "Sofia",
+        "due_date": "in two weeks",
+        "priority": "Low",
+        "source_quote": "Sofia, can you follow up on syncing with the design team on the new mockups and get back to us by in two weeks?"
+      },
+      {
+        "task": "Cleaning up the backlog",
+        "owner": "Sofia",
+        "due_date": "end of this week",
+        "priority": "Medium",
+        "source_quote": "Let's have Sofia handle cleaning up the backlog, target end of this week."
+      },
+      {
+        "task": "Writing up the postmortem summary",
+        "owner": "Sofia",
+        "due_date": "the end of the sprint",
+        "priority": "Medium",
+        "source_quote": "Sofia, can you follow up on writing up the postmortem summary and get back to us by the end of the sprint?"
+      }
+    ],
+    "has_unassigned_item": true,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for cleaning up the backlog?",
+        "answer": "Sofia is responsible, due end of this week."
+      },
+      {
+        "question": "When is 'cleaning up the backlog' due?",
+        "answer": "End of this week."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about the notification service migration at Zenith Labs."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: The notification service migration — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on the notification service migration. Here's a quick summary of next steps:\n\n- Syncing with the design team on the new mockups — Sofia (due in two weeks)\n- Cleaning up the backlog — Sofia (due end of this week)\n- Writing up the postmortem summary — Sofia (due the end of the sprint)\n\nLet me know if I've missed anything.\n\nBest,\nSofia"
+    }
+  },
+  {
+    "id": "m0042",
+    "meeting_type": "exec_strategy",
+    "company": "Northwind",
+    "topic": "headcount planning for next fiscal year",
+    "participants": [
+      "Kwame",
+      "Tom",
+      "Yuki",
+      "Ivan",
+      "Priya"
+    ],
+    "transcript": "Kwame: Let's kick off — headcount planning for next fiscal year is the main thing on the agenda today.\nKwame: Let's circle back to that in a second.\nIvan: Just to summarize what I think I heard...\nTom: Let's circle back to that in a second.\nYuki: We've decided to postpone drafting the updated proposal doc until next quarter.\nYuki: Can someone own reviewing the current metrics dashboard? I don't think we assigned that.\nTom: Yeah, that tracks with what I saw too.\nKwame: Priya, can you follow up on fixing the flaky test suite and get back to us by next Monday?\nPriya: Sorry, can you repeat that? I got cut off.\nKwame: Yeah, that tracks with what I saw too.\nIvan: Quick tangent — did anyone see the email from finance?\nKwame: Great, thanks everyone, let's wrap up there regarding headcount planning for next fiscal year.",
+    "action_items": [
+      {
+        "task": "Fixing the flaky test suite",
+        "owner": "Priya",
+        "due_date": "next Monday",
+        "priority": "High",
+        "source_quote": "Priya, can you follow up on fixing the flaky test suite and get back to us by next Monday?"
+      }
+    ],
+    "has_unassigned_item": true,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for fixing the flaky test suite?",
+        "answer": "Priya is responsible, due next Monday."
+      },
+      {
+        "question": "When is 'fixing the flaky test suite' due?",
+        "answer": "Next monday."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about headcount planning for next fiscal year at Northwind."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: Headcount planning for next fiscal year — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on headcount planning for next fiscal year. Here's a quick summary of next steps:\n\n- Fixing the flaky test suite — Priya (due next Monday)\n\nLet me know if I've missed anything.\n\nBest,\nKwame"
+    }
+  },
+  {
+    "id": "m0045",
+    "meeting_type": "exec_strategy",
+    "company": "Bluepeak",
+    "topic": "headcount planning for next fiscal year",
+    "participants": [
+      "Noor",
+      "Aisha",
+      "Chen"
+    ],
+    "transcript": "Noor: Alright everyone, thanks for joining. Let's get started.\nChen: Sorry, can you repeat that? I got cut off.\nNoor: Noor, can you follow up on finalizing the budget numbers and get back to us by before the next sync?\nNoor: Just to summarize what I think I heard...\nNoor: Just to summarize what I think I heard...\nChen: Yeah, that tracks with what I saw too.\nChen: Not sure that's fully in scope for today, but noted.\nChen: Let's circle back to that in a second.\nNoor: Sorry, can you repeat that? I got cut off.\nAisha: Aisha, can you follow up on scheduling the customer call and get back to us by before the leadership review?\nNoor: Sorry, can you repeat that? I got cut off.\nAisha: Let's have Chen handle writing up the postmortem summary, target in two weeks.\nAisha: Quick tangent — did anyone see the email from finance?\nNoor: Not sure that's fully in scope for today, but noted.\nNoor: Great, thanks everyone, let's wrap up there regarding headcount planning for next fiscal year.",
+    "action_items": [
+      {
+        "task": "Finalizing the budget numbers",
+        "owner": "Noor",
+        "due_date": "before the next sync",
+        "priority": "High",
+        "source_quote": "Noor, can you follow up on finalizing the budget numbers and get back to us by before the next sync?"
+      },
+      {
+        "task": "Scheduling the customer call",
+        "owner": "Aisha",
+        "due_date": "before the leadership review",
+        "priority": "Medium",
+        "source_quote": "Aisha, can you follow up on scheduling the customer call and get back to us by before the leadership review?"
+      },
+      {
+        "task": "Writing up the postmortem summary",
+        "owner": "Chen",
+        "due_date": "in two weeks",
+        "priority": "High",
+        "source_quote": "Let's have Chen handle writing up the postmortem summary, target in two weeks."
+      }
+    ],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for finalizing the budget numbers?",
+        "answer": "Noor is responsible, due before the next sync."
+      },
+      {
+        "question": "When is 'finalizing the budget numbers' due?",
+        "answer": "Before the next sync."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about headcount planning for next fiscal year at Bluepeak."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: Headcount planning for next fiscal year — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on headcount planning for next fiscal year. Here's a quick summary of next steps:\n\n- Finalizing the budget numbers — Noor (due before the next sync)\n- Scheduling the customer call — Aisha (due before the leadership review)\n- Writing up the postmortem summary — Chen (due in two weeks)\n\nLet me know if I've missed anything.\n\nBest,\nNoor"
+    }
+  },
+  {
+    "id": "m0030",
+    "meeting_type": "no_action_chitchat",
+    "company": "Fabrikam",
+    "topic": "an informational update with no decisions",
+    "participants": [
+      "Arjun",
+      "Noor",
+      "Aisha",
+      "Priya",
+      "Tom"
+    ],
+    "transcript": "Arjun: Okay, I think we're all here — let's dive in.\nTom: Just to summarize what I think I heard...\nPriya: Yeah, that tracks with what I saw too.\nPriya: Let's circle back to that in a second.\nNoor: Good point, I hadn't thought about that angle.\nArjun: Good point, I hadn't thought about that angle.\nPriya: I think that's a fair concern, let's note it down.\nAisha: Sorry, can you repeat that? I got cut off.\nAisha: Good point, I hadn't thought about that angle.\nArjun: Quick tangent — did anyone see the email from finance?\nAisha: Not sure that's fully in scope for today, but noted.\nAisha: Can we timebox this? We have another meeting after.\nAisha: Good point, I hadn't thought about that angle.\nNoor: Great, thanks everyone, let's wrap up there regarding an informational update with no decisions.",
+    "action_items": [],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about an informational update with no decisions at Fabrikam."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: An informational update with no decisions — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on an informational update with no decisions. Here's a quick summary of next steps:\n\n- No specific action items were assigned in this meeting.\n\nLet me know if I've missed anything.\n\nBest,\nArjun"
+    }
+  },
+  {
+    "id": "m0038",
+    "meeting_type": "marketing_planning",
+    "company": "Zenith Labs",
+    "topic": "the rebrand rollout",
+    "participants": [
+      "Chen",
+      "Fatima",
+      "Priya",
+      "Sofia",
+      "Rahul"
+    ],
+    "transcript": "Chen: Alright everyone, thanks for joining. Let's get started.\nFatima: I think that's a fair concern, let's note it down.\nSofia: Not sure that's fully in scope for today, but noted.\nSofia: Yeah, that tracks with what I saw too.\nSofia: Quick tangent — did anyone see the email from finance?\nPriya: Chen will take care of coordinating with legal on the contract terms by end of day Friday.\nChen: Let's circle back to that in a second.\nFatima: Not sure that's fully in scope for today, but noted.\nFatima: Just to summarize what I think I heard...\nSofia: Fatima, can you follow up on setting up the tracking dashboard and get back to us by next Monday?\nSofia: Good point, I hadn't thought about that angle.\nSofia: Just to summarize what I think I heard...\nChen: Great, thanks everyone, let's wrap up there regarding the rebrand rollout.",
+    "action_items": [
+      {
+        "task": "Coordinating with legal on the contract terms",
+        "owner": "Chen",
+        "due_date": "end of day Friday",
+        "priority": "Medium",
+        "source_quote": "Chen will take care of coordinating with legal on the contract terms by end of day Friday."
+      },
+      {
+        "task": "Setting up the tracking dashboard",
+        "owner": "Fatima",
+        "due_date": "next Monday",
+        "priority": "Low",
+        "source_quote": "Fatima, can you follow up on setting up the tracking dashboard and get back to us by next Monday?"
+      }
+    ],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for coordinating with legal on the contract terms?",
+        "answer": "Chen is responsible, due end of day Friday."
+      },
+      {
+        "question": "When is 'coordinating with legal on the contract terms' due?",
+        "answer": "End of day friday."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about the rebrand rollout at Zenith Labs."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: The rebrand rollout — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on the rebrand rollout. Here's a quick summary of next steps:\n\n- Coordinating with legal on the contract terms — Chen (due end of day Friday)\n- Setting up the tracking dashboard — Fatima (due next Monday)\n\nLet me know if I've missed anything.\n\nBest,\nChen"
+    }
+  },
+  {
+    "id": "m0039",
+    "meeting_type": "sales_call",
+    "company": "Fabrikam",
+    "topic": "a new pilot proposal",
+    "participants": [
+      "Aisha",
+      "Lena",
+      "Rahul",
+      "Ivan"
+    ],
+    "transcript": "Aisha: Morning all. Quick housekeeping before we start.\nIvan: Rahul, can you follow up on preparing the slide deck for leadership and get back to us by in two weeks?\nIvan: Yeah, that tracks with what I saw too.\nRahul: Quick tangent — did anyone see the email from finance?\nLena: Can we timebox this? We have another meeting after.\nAisha: I think that's a fair concern, let's note it down.\nAisha: Lena will take care of syncing with the design team on the new mockups by the end of the sprint.\nIvan: Let's circle back to that in a second.\nIvan: Quick tangent — did anyone see the email from finance?\nLena: Quick tangent — did anyone see the email from finance?\nRahul: We've decided to postpone cleaning up the backlog until next quarter.\nRahul: Quick tangent — did anyone see the email from finance?\nLena: Ivan, can you follow up on coordinating with legal on the contract terms and get back to us by end of this week?\nIvan: Quick tangent — did anyone see the email from finance?\nIvan: Great, thanks everyone, let's wrap up there regarding a new pilot proposal.",
+    "action_items": [
+      {
+        "task": "Preparing the slide deck for leadership",
+        "owner": "Rahul",
+        "due_date": "in two weeks",
+        "priority": "Low",
+        "source_quote": "Rahul, can you follow up on preparing the slide deck for leadership and get back to us by in two weeks?"
+      },
+      {
+        "task": "Syncing with the design team on the new mockups",
+        "owner": "Lena",
+        "due_date": "the end of the sprint",
+        "priority": "Low",
+        "source_quote": "Lena will take care of syncing with the design team on the new mockups by the end of the sprint."
+      },
+      {
+        "task": "Coordinating with legal on the contract terms",
+        "owner": "Ivan",
+        "due_date": "end of this week",
+        "priority": "Medium",
+        "source_quote": "Ivan, can you follow up on coordinating with legal on the contract terms and get back to us by end of this week?"
+      }
+    ],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for preparing the slide deck for leadership?",
+        "answer": "Rahul is responsible, due in two weeks."
+      },
+      {
+        "question": "When is 'preparing the slide deck for leadership' due?",
+        "answer": "In two weeks."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about a new pilot proposal at Fabrikam."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: A new pilot proposal — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on a new pilot proposal. Here's a quick summary of next steps:\n\n- Preparing the slide deck for leadership — Rahul (due in two weeks)\n- Syncing with the design team on the new mockups — Lena (due the end of the sprint)\n- Coordinating with legal on the contract terms — Ivan (due end of this week)\n\nLet me know if I've missed anything.\n\nBest,\nAisha"
+    }
+  },
+  {
+    "id": "m0049",
+    "meeting_type": "marketing_planning",
+    "company": "Bluepeak",
+    "topic": "the rebrand rollout",
+    "participants": [
+      "Meera",
+      "Aisha",
+      "Daniel",
+      "Sofia",
+      "Yuki"
+    ],
+    "transcript": "Meera: Let's kick off — the rebrand rollout is the main thing on the agenda today.\nSofia: Good point, I hadn't thought about that angle.\nAisha: Sorry, can you repeat that? I got cut off.\nDaniel: We've decided to postpone drafting the updated proposal doc until next quarter.\nAisha: Let's circle back to that in a second.\nMeera: Yeah, that tracks with what I saw too.\nDaniel: Quick tangent — did anyone see the email from finance?\nMeera: Let's circle back to that in a second.\nYuki: Let's circle back to that in a second.\nMeera: Can someone own scheduling the customer call? I don't think we assigned that.\nYuki: Can we timebox this? We have another meeting after.\nDaniel: Yuki will take care of preparing the slide deck for leadership by end of this week.\nAisha: Great, thanks everyone, let's wrap up there regarding the rebrand rollout.",
+    "action_items": [
+      {
+        "task": "Preparing the slide deck for leadership",
+        "owner": "Yuki",
+        "due_date": "end of this week",
+        "priority": "Medium",
+        "source_quote": "Yuki will take care of preparing the slide deck for leadership by end of this week."
+      }
+    ],
+    "has_unassigned_item": true,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for preparing the slide deck for leadership?",
+        "answer": "Yuki is responsible, due end of this week."
+      },
+      {
+        "question": "When is 'preparing the slide deck for leadership' due?",
+        "answer": "End of this week."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about the rebrand rollout at Bluepeak."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: The rebrand rollout — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on the rebrand rollout. Here's a quick summary of next steps:\n\n- Preparing the slide deck for leadership — Yuki (due end of this week)\n\nLet me know if I've missed anything.\n\nBest,\nMeera"
+    }
+  },
+  {
+    "id": "m0035",
+    "meeting_type": "status_review",
+    "company": "Northwind",
+    "topic": "the vendor onboarding project",
+    "participants": [
+      "Yuki",
+      "Kwame"
+    ],
+    "transcript": "Yuki: Alright everyone, thanks for joining. Let's get started.\nKwame: Let's have Kwame handle coordinating with legal on the contract terms, target the end of the sprint.\nKwame: Let's circle back to that in a second.\nYuki: Not sure that's fully in scope for today, but noted.\nYuki: Let's have Kwame handle preparing the slide deck for leadership, target the end of the sprint.\nKwame: Yuki, can you follow up on reaching out to the vendor for updated pricing and get back to us by end of this week?\nYuki: Yeah, that tracks with what I saw too.\nYuki: Kwame, can you follow up on writing up the postmortem summary and get back to us by end of this week?\nYuki: Yeah, that tracks with what I saw too.\nKwame: I think that's a fair concern, let's note it down.\nYuki: Sorry, can you repeat that? I got cut off.\nYuki: Let's have Yuki handle setting up the tracking dashboard, target the end of the sprint.\nKwame: Sorry, can you repeat that? I got cut off.\nYuki: I think that's a fair concern, let's note it down.\nYuki: Let's circle back to that in a second.\nKwame: Can we timebox this? We have another meeting after.\nYuki: Just to summarize what I think I heard...\nKwame: Let's circle back to that in a second.\nYuki: I think that's a fair concern, let's note it down.\nYuki: Great, thanks everyone, let's wrap up there regarding the vendor onboarding project.",
+    "action_items": [
+      {
+        "task": "Coordinating with legal on the contract terms",
+        "owner": "Kwame",
+        "due_date": "the end of the sprint",
+        "priority": "High",
+        "source_quote": "Let's have Kwame handle coordinating with legal on the contract terms, target the end of the sprint."
+      },
+      {
+        "task": "Preparing the slide deck for leadership",
+        "owner": "Kwame",
+        "due_date": "the end of the sprint",
+        "priority": "Medium",
+        "source_quote": "Let's have Kwame handle preparing the slide deck for leadership, target the end of the sprint."
+      },
+      {
+        "task": "Reaching out to the vendor for updated pricing",
+        "owner": "Yuki",
+        "due_date": "end of this week",
+        "priority": "Low",
+        "source_quote": "Yuki, can you follow up on reaching out to the vendor for updated pricing and get back to us by end of this week?"
+      },
+      {
+        "task": "Writing up the postmortem summary",
+        "owner": "Kwame",
+        "due_date": "end of this week",
+        "priority": "High",
+        "source_quote": "Kwame, can you follow up on writing up the postmortem summary and get back to us by end of this week?"
+      },
+      {
+        "task": "Setting up the tracking dashboard",
+        "owner": "Yuki",
+        "due_date": "the end of the sprint",
+        "priority": "High",
+        "source_quote": "Let's have Yuki handle setting up the tracking dashboard, target the end of the sprint."
+      }
+    ],
+    "has_unassigned_item": false,
+    "qa_pairs": [
+      {
+        "question": "Who is responsible for coordinating with legal on the contract terms?",
+        "answer": "Kwame is responsible, due the end of the sprint."
+      },
+      {
+        "question": "When is 'coordinating with legal on the contract terms' due?",
+        "answer": "The end of the sprint."
+      },
+      {
+        "question": "What was the main topic of this meeting?",
+        "answer": "The meeting was mainly about the vendor onboarding project at Northwind."
+      },
+      {
+        "question": "What was the final budget number agreed for next year?",
+        "answer": "Not discussed in this meeting."
+      }
+    ],
+    "email_draft": {
+      "subject": "Follow-up: The vendor onboarding project — Next Steps",
+      "body": "Hi all,\n\nThanks for joining today's discussion on the vendor onboarding project. Here's a quick summary of next steps:\n\n- Coordinating with legal on the contract terms — Kwame (due the end of the sprint)\n- Preparing the slide deck for leadership — Kwame (due the end of the sprint)\n- Reaching out to the vendor for updated pricing — Yuki (due end of this week)\n- Writing up the postmortem summary — Kwame (due end of this week)\n- Setting up the tracking dashboard — Yuki (due the end of the sprint)\n\nLet me know if I've missed anything.\n\nBest,\nYuki"
+    }
+  }
+]
