@@ -10,8 +10,6 @@ A transcript is routed to the right task, optionally chunked by the Retriever fo
 
 ## Results
 
-![Fine-tuning impact](assets/version_comparison.png)
-
 Fine-tuning a QLoRA adapter (rank 16, 3 epochs, 250 synthetic instruction examples) on top of Phi-3.5-mini improved:
 - **Correctness**: 3.5 → 4.0 (+14%)
 - **Completeness**: 4.57 → 4.64 (+2%)
